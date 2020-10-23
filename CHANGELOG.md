@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.7.2
+
+Fix gbm.h issue and bring in some other harmless updates.
+
 ## v2.7.1
 
 Interim SmartRent release to post system artifacts. This contains the 4D System
