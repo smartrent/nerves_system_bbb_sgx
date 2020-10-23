@@ -1,7 +1,7 @@
 defmodule NervesSystemBBBSGX.MixProject do
   use Mix.Project
 
-  @github_organization "verypossible"
+  @github_organization "smartrent"
   @app :nerves_system_bbb_sgx
   @version Path.join(__DIR__, "VERSION")
            |> File.read!()
@@ -67,7 +67,8 @@ defmodule NervesSystemBBBSGX.MixProject do
     [
       files: package_files(),
       licenses: ["Apache 2.0"],
-      links: %{"GitHub" => "https://github.com/#{@github_organization}/#{@app}"}
+      links: %{"GitHub" => "https://github.com/#{@github_organization}/#{@app}"},
+      organization: "smartrent"
     ]
   end
 
