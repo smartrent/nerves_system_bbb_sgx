@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.7.1
+
+Interim SmartRent release to post system artifacts. This contains the 4D System
+touchscreen drivers.
+
 ## v2.7.0
 
 This release updates the system to use Buildroot 2020.05 and Erlang/OTP 23.
